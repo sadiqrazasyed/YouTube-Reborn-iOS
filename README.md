@@ -9,7 +9,7 @@ YouTube Reborn IPA for iOS.
 
 # Credits
 
-- Lillie/Srahh12099for YouTube Reborn.
+- Lillie/Srahh12099 for YouTube Reborn.
 
 - [Galactic-Dev](https://github.com/Galactic-Dev) and [Luewii](https://github.com/Luewii) for [iSponsorBlock](https://github.com/Galactic-Dev/iSponsorBlock).
 
@@ -24,7 +24,7 @@ YouTube Reborn IPA for iOS.
 
 2. **YTABGoodies**
 
-3. **iSponsorBlock:**
+3. **iSponsorBlock**
 
 4. **YTReExplore** 
 
@@ -49,3 +49,4 @@ Available for iOS 14 - 15.1.1 (All devices) and iOS 14 - 15.5 b4 (iPhone X and o
 | Application | Bundle | Version |
 | ------------------ |:---------:|:------:|
 | [YouTube](https://github.com/sadiqrazasyed/YouTube-Reborn-iOS/releases/download/latest/YouTube-Reborn-17.36.3.ipa) | com.google.ios.youtube | 17.36.3 |
+| [YouTube Without YTUHD](https://github.com/sadiqrazasyed/YouTube-Reborn-iOS/releases/download/latest/YouTube-Reborn-17.36.3-No-YTUHD.ipa) | com.google.ios.youtube | 17.36.3 |
